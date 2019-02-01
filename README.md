@@ -23,8 +23,8 @@ And when you start your masternode it links "datadir" and "conf" values to worki
 This way you can host your masternodes at windows and if you change your 'masternode port', 'rpc port' and 'coinname' for every instance masternode setup, and you can start multiple masternodes for same coin.
 
 Working On:
-I am trying to building a platform for checking masternode statuses and getting simple informations. It will be on http://mnhoster.com]mnhoster.com
-Early Builds will be on https://mnhoster.com/earlybuilds/]mnHoster Early Builds
+I am trying to building a platform for checking masternode statuses and getting simple informations. It will be on http://mnhoster.com
+Early Builds will be on https://mnhoster.com/earlybuilds/ Early Builds
 
 2019.02.02
 New: autoget rpcport and masternodeport from qt wallet.
