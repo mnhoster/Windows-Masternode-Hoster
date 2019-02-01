@@ -36,7 +36,7 @@ Early Builds will be on [url=https://mnhoster.com/earlybuilds/]mnHoster Early Bu
 
 [size=15pt][url=https://github.com/mnhoster/Windows-Masternode-Hoster/releases/tag/2019.02.02]Github[/url][/size]
 
-[center][img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/1.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/1.JPG)
 
 [img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/2.JPG[/img]
 
