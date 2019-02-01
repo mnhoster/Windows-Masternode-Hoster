@@ -1,4 +1,4 @@
-[center][size=20pt]mnhoster.com[/size]
+mnhoster.com
 
 Windows Masternode Hoster - Tool For Hosting Masternodes At Windows System
 
@@ -9,10 +9,10 @@ Supporting All Masternode Coins (i suppose)
 Supporting Multiple Masternodes For Same Coin (i am sure)
 
 
-[color=red][font=Verdana][b]Requirements
+Requirements
 If you going to use this tool at your own pc (your own wallet and masternode host wallet/s at same pc) you need to edit your $coinname.conf file, you must change/add 'listen=0' to your $coinname.conf file.
 WorkingDirectory must not contains spaces. Use 'D:\MasternodeHosterWorkingDirectory' recomended
-Your MasternodePorts must be forwarded. (as usual)[/b][/font][/color]
+Your MasternodePorts must be forwarded. (as usual)
 
 
 How is it working?
@@ -22,45 +22,44 @@ You can copy your blockchain folders (blocks,chainstate,sporks etc.) to workingd
 And when you start your masternode it links "datadir" and "conf" values to workingdirectory\$coinname\$coinname.conf file. 
 This way you can host your masternodes at windows and if you change your 'masternode port', 'rpc port' and 'coinname' for every instance masternode setup, and you can start multiple masternodes for same coin.
 
-[color=red]Working On: [/color]
-I am trying to building a platform for checking masternode statuses and getting simple informations. It will be on [url=http://mnhoster.com]mnhoster.com[/url]
-Early Builds will be on [url=https://mnhoster.com/earlybuilds/]mnHoster Early Builds[/url]
+Working On:
+I am trying to building a platform for checking masternode statuses and getting simple informations. It will be on http://mnhoster.com]mnhoster.com
+Early Builds will be on https://mnhoster.com/earlybuilds/]mnHoster Early Builds
 
 2019.02.02
-[color=red]New: [/color] autoget rpcport and masternodeport from qt wallet.
-[color=red]New: [/color] Easy uPnP port forwarding option for selected ports.
+New: autoget rpcport and masternodeport from qt wallet.
+New: Easy uPnP port forwarding option for selected ports.
 
-[size=18pt][color=red]Downloads[/color][/size]
+Downloads
 
-[size=15pt][url=https://mnhoster.com/earlybuilds/]Early Builds Repo[/url][/size]
+Early Builds Repo : https://mnhoster.com/earlybuilds/ 
 
-[size=15pt][url=https://github.com/mnhoster/Windows-Masternode-Hoster/releases/tag/2019.02.02]Github[/url][/size]
 
 ![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/1.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/2.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/2.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/2a.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/2a.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/2b.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/2b.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/3.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/3.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/4.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/4.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/5.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/5.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/6.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/6.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/7.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/7.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/8.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/8.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/9.JPG[/img]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/9.JPG)
 
-[img]https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/10.JPG[/img][/center]
+![alt text](https://raw.githubusercontent.com/mnhoster/Windows-Masternode-Hoster/master/10.JPG)
 
-I am trying to building a platform for checking masternode statuses and getting simple informations. It will be on [url=http://mnhoster.com]mnhoster.com [/url]
+I am trying to building a platform for checking masternode statuses and getting simple informations. It will be on http://mnhoster.com]mnhoster.com
 
 I Successfully Run 3 Masternodes At 1 GB RAM Free Tier VPS. That means 5 dollar/month for 3 Masternodes. 0,055$/day for 1 Masternode. (i have only 3 masternodes. need feedback for price / performance)
 You Can Run This Tool at Your PC But Eventually You Will Restart Your PC, So I Recommend to [Suspicious link removed]. But If You Are A ROI Hunter, This Tool May Help You.
